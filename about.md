@@ -3,11 +3,10 @@ title: About
 layout: page
 description: About
 bodyClass: page-about
+published: true
 ---
 
-Lorem markdownum aequalis strigis. _Saetigeri iubeas_, vultu huic alvum nondum
-de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
-crimen habet Priamum nec.
+We are SkillQuench Technologies, a dynamic startup originating out of Indian Silicon City Bangalore. We specialize in profressional web development, video editing, corpotate trainings and much more.
 
 ![Accounting Services](/images/thom-holmes-Lrfw0U_o9I0-unsplash.jpg)
 
