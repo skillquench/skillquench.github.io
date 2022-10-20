@@ -9,20 +9,6 @@ published: true
 ---
 
 # Services we offer
-
-1. Website Development
-1. App Development
-1. Software Outsourcing
-1. Datacenter Maintainance
-1. Baremetal Hosting
-1. Datacentric pojects
-1. SAP Basis services
-1. ERP Software solutions
-1. Seach Engine Optimization
-1. Financial Solutions
-1. Video Editing
-1. Brand Builing Consultation
-1. Digital Marketing Consultation
-1. Corporate training
-1. Student training
+We are one-stop solution for all your business problems, we help with 
+Website Development, App Development, Software Outsourcing, Datacenter Maintainance, Baremetal Hosting, Datacentric pojects, SAP Basis services, ERP Software solutions, Seach Engine Optimization, Financial Solutions, Video Editing, Brand Builing Consultation, Digital Marketing Consultation, Corporate training, Student training etc.
 
