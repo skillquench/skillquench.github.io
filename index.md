@@ -11,6 +11,6 @@ show_call_box: true
 published: true
 ---
 
-# SkillQuench - An all around tech solutions company.
+# SkillQuench Technologies
 
-We provide various solution in wide arena of problem spaces, get in touch with us to know more.
+We provide around tech solutions in wide arena of problem spaces, get in touch with us to know more.
