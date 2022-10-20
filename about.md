@@ -8,11 +8,13 @@ published: true
 
 We are SkillQuench Technologies, a dynamic startup originating out of Indian Silicon City Bangalore. We specialize in profressional web development, video editing, corporate trainings and much more.
 
-![Accounting Services](/images/thom-holmes-Lrfw0U_o9I0-unsplash.jpg)
-
 ## Team
 Sumanth HR, CEO
 Madhu Shankar, CTO
 
 ## Contacts
 Write to us at skillquench@gmail.com
+
+![Accounting Services](/images/thom-holmes-Lrfw0U_o9I0-unsplash.jpg)
+
+
