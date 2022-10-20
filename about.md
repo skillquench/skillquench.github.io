@@ -13,7 +13,7 @@ Sumanth HR, CEO
 Madhu Shankar, CTO
 
 ## Contacts
-Write to us at skillquench@gmail.com
+Write to us at mailto:skillquench@gmail.com
 
 ![Accounting Services](/images/thom-holmes-Lrfw0U_o9I0-unsplash.jpg)
 
