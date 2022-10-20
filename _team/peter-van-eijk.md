@@ -1,9 +1,9 @@
 ---
 title: Madhu Shankar
 date: 2018-12-20T13:44:30+10:00
-image: images/team/peter-van-eijk-711986-unsplash.jpg
-jobtitle: Director
-linkedinurl: 'https://www.linkedin.com/'
+image: images/team/madhu.jpg
+jobtitle: CTO
+linkedinurl: 'https://www.linkedin.com/iammadhushankar'
 promoted: true
 weight: 1
 published: true
