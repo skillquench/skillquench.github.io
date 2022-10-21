@@ -1,7 +1,8 @@
 ---
-title: "Software Outsourcing"
-date: 2018-12-28T15:14:39+10:00
+title: Software Outsourcing
+date: {}
 weight: 4
+published: true
 ---
 
 Business advisory is the final tier of the accounting pyramid. Business advisory involves reporting on performance as well as advising on strategic plans, risk assessment, and succession plans.
@@ -10,19 +11,14 @@ Business advisory is the final tier of the accounting pyramid. Business advisory
 
 # Objectives
 
-Financial accounting and financial reporting are often used as synonyms.
 
-1. According to International Financial Reporting Standards: the objective of financial reporting is:
-2. To provide financial information that is useful to existing and potential investors, lenders and other creditors in making decisions about providing resources to the reporting entity.
-3. According to the European Accounting Association:
 
-## Relevance
+We are offering worldwide clients a wide range of software solutions for the banking, healthcare, and retail industries. When outsourcing software development us, affordable service rates and an abundance of engineer force are unquestionably necessary.
 
-Relevance is the capacity of the financial information to influence the decision of its users. The ingredients of relevance are the predictive value and confirmatory value. Materiality is a sub-quality of relevance.
+Let's accelerate the 
+The ingredients of relevance are the predictive value and confirmatory value.
 
-> The ingredients of relevance are the predictive value and confirmatory value.
 
-Information is considered material if its omission or misstatement could influence the economic decisions of users taken on the basis of the financial statements.
 
 ## Faithful Representation
 
