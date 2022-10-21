@@ -1,7 +1,7 @@
 ---
 title: ERP Software solutions
-date:
-  'Sat May 18 2019 08:03:46 GMT+0530 (India Standard Time)': null
+date:{2019-05-18T12:33:46+10:00}
+  
 weight: 7
 published: true
 ---
