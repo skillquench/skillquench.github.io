@@ -1,6 +1,7 @@
 ---
 title: ERP Software solutions
-date: {2019-05-18T12:33:46+10:00}
+date:
+  'Sat May 18 2019 08:03:46 GMT+0530 (India Standard Time)': null
 weight: 7
 published: true
 ---
@@ -12,9 +13,10 @@ Orontes Erysicthona dona, est per Achille viridi draconis cultis mota milia.
 
 ![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
 
-# Objectives
+# Objectives-----
 
-Our solutions are marketed through a worldwide network of ERP Business Partners, you benefit from your partner’s expertise that implemented and supports your Dynamics AX or Dynamics 365 ERP System. 
+
+SkillQuench solutions are marketed through a worldwide network of ERP Business Partners, you benefit from your partner’s expertise that implemented and supports your Dynamics AX or Dynamics 365 ERP System. 
 
 ## Relevance
 
