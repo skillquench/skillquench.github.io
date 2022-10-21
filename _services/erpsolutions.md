@@ -1,7 +1,8 @@
 ---
-title: "ERP Software solutions"
-date: 2019-05-18T12:33:46+10:00
+title: ERP Software solutions
+date: {}
 weight: 7
+published: true
 ---
 
 Lorem markdownum **Achaica revolutaque amore**, penitus puppes nec furit,
@@ -13,11 +14,7 @@ Orontes Erysicthona dona, est per Achille viridi draconis cultis mota milia.
 
 # Objectives
 
-Financial accounting and financial reporting are often used as synonyms.
-
-1. According to International Financial Reporting Standards: the objective of financial reporting is:
-2. To provide financial information that is useful to existing and potential investors, lenders and other creditors in making decisions about providing resources to the reporting entity.
-3. According to the European Accounting Association:
+Our solutions are marketed through a worldwide network of ERP Business Partners, you benefit from your partner’s expertise that implemented and supports your Dynamics AX or Dynamics 365 ERP System. 
 
 ## Relevance
 
