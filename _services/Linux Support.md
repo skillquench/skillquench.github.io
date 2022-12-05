@@ -2,8 +2,10 @@
 title: "Linux Support"
 date: 2019-03-28T15:14:54+10:00
 weight: 5
+image: /images/linuxsupport.PNG
 ---
 ![linux support](/images/linuxsupport.PNG)
+
 
 # Objectives-----
 
