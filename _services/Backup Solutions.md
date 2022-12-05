@@ -4,7 +4,7 @@ date: 2019-04-18T12:33:46+10:00
 weight: 6
 ---
 
-![Accounting Services](/images/backup.PNG)
+![Backup Services](/images/backup.PNG)
 
 # Objectives
 In today’s competitive business world, data holds significant value and its of paramount importance for businesses to ensure that they have a data back up solution in place.
