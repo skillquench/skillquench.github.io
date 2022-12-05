@@ -1,7 +1,7 @@
 ---
 title: "Devops Support"
 date: 2019-01-28T15:15:26+10:00
-image: /images/devopsimage.PNG
+image:/images/devopsimage.PNG
 weight: 2
 ---
 
