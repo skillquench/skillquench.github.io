@@ -2,7 +2,6 @@
 title: "Cloud Computing"
 date: 2019-03-28T15:14:54+10:00
 weight: 5
-image: /images/cloudsupport.PNG
 ---
 ![cloud support](/images/cloudsupport.PNG)
 In today’s competitive business world, data holds significant value and its of paramount importance for businesses to ensure that they have a data back up solution in place.
