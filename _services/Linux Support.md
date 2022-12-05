@@ -1,74 +1,29 @@
-
-
+---
+title: "Linux Support"
+date: 2019-03-28T15:14:54+10:00
+weight: 5
+---
+![linux support](/images/linuxsupport.PNG)
 
 # Objectives-----
 
 
-SkillQuench solutions are marketed through a worldwide network of ERP Business Partners, you benefit from your partner’s expertise that implemented and supports your Dynamics AX or Dynamics 365 ERP System. 
+offers you a complete range of Linux services and support solutions in India, from simple server installations to highly complex application based support.
 
-## Relevance
+Based out of Bangalore we provide support to customers internationally, as well as to the Domestic Market in India.
 
-Relevance is the capacity of the financial information to influence the decision of its users. The ingredients of relevance are the predictive value and confirmatory value. Materiality is a sub-quality of relevance.
+Why Opensource
 
-> The ingredients of relevance are the predictive value and confirmatory value.
+Benefits of Open Source Software
 
-Information is considered material if its omission or misstatement could influence the economic decisions of users taken on the basis of the financial statements.
+Open source software (OSS) is crowd-sourced. As a result it has benefits—cost, flexibility, freedom, security, and accountability—that are unsurpassed by propriety software solutions. Moreover, OSS has long-term viability and is always on the cutting-edge of technology. It is created and supported by a worldwide community of organizations and individual developers, many of whom also live by open source values like collaboration and volunteerism.
 
-## Faithful Representation
+The cost benefit alone makes OSS highly appealing. The vast majority of OSS is freely distributed. But OSS is said to be “free as in kittens” and not “free as in beer”—it requires maintenance, configuration, and on-going support.
 
-Faithful representation means that the actual effects of the transactions shall be properly accounted for and reported in the financial statements. The words and numbers must match what really happened in the transaction. The ingredients of faithful representation are completeness, neutrality and free from error.
+The trade-off is flexibility and freedom. Unlike closed proprietary software, OSS can be altered and extended by any developer familiar with the source code. This grants organizations freedom from “vendor lock-in” and assures long-term viability. A widely adopted OSS project is often supported by hundreds of capable development shops that can always be called upon long into the future.
 
-## Enhancing Qualitative Characteristics
+These same development shops are constantly reviewing the OSS code they support, as are thousands of independent developers working on the project worldwide. The result is a vast peer review process that ensures security and accountability. Security holes are found and fixed quickly. While anyone can research shops and developers based on the quality of code they write.
 
-### Verifiability
+And more often than not, OSS shops and developers hold similar values. In all aspects of life, they are advocates for more community participation, collaboration, and volunteerism. They believe in working together to build free, high quality products that are accessible to for-profit and non-profit organizations alike.
 
-Verifiability implies consensus between the different knowledgeable and independent users of financial information. Such information must be supported by sufficient evidence to follow the principle of objectivity.
-
-### Comparability
-
-Comparability is the uniform application of accounting methods across entities in the same industry. The principle of consistency is under comparability. Consistency is the uniform application of accounting across points in time within an entity.
-
-### Understandability
-
-Understandability means that accounting reports should be expressed as clearly as possible and should be understood by those to whom the information is relevant.
-Timeliness: Timeliness implies that financial information must be presented to the users before a decision is to be made.
-
----
-
-## Statement of cash flows
-
-The statement of cash flows considers the inputs and outputs in concrete cash within a stated period. The general template of a cash flow statement is as follows: Cash Inflow - Cash Outflow + Opening Balance = Closing Balance
-
-| Cash Inflow | Outflow   | Opening Balance |
-| ----------- | --------- | --------------- |
-| _Monday_    | `Tuesday` | **Wednesday**   |
-| 1           | 2         | 3               |
-
-**Example 1:** in the beginning of September, Ellen started out with $5 in her bank account. During that same month, Ellen borrowed $20 from Tom. At the end of the month, Ellen bought a pair of shoes for $7. Ellen's cash flow statement for the month of September looks like this:
-
-- Cash inflow: $20
-- Cash outflow:$7
-- Opening balance: $5
-- Closing balance: $20 – $7 + $5 = $18
-
-**Example 2:** in the beginning of June, WikiTables, a company that buys and resells tables, sold 2 tables. They'd originally bought the tables for $25 each, and sold them at a price of $50 per table. The first table was paid out in cash however the second one was bought in credit terms. WikiTables' cash flow statement for the month of June looks like this:
-
-> **Important:** the cash flow statement only considers the exchange of actual cash, and ignores what the person in question owes or is owed.
-
-## Statement of financial position (balance sheet)
-
-The balance sheet is the financial statement showing a firm's assets, liabilities and equity (capital) at a set point in time, usually the end of the fiscal year reported on the accompanying income statement.
-
-- **fixed assets**
-  - property
-  - building
-  - equipment (such as factory machinery)
-- **intangible assets**
-  - copyrights
-  - trademarks
-  - patents
-    - pending
-    - international
-- goodwill
-
-Owner's equity, sometimes referred to as net assets, is represented differently depending on the type of business ownership. Business ownership can be in the form of a sole proprietorship, partnership, or a corporation. For a corporation, the owner's equity portion usually shows common stock, and retained earnings (earnings kept in the company). Retained earnings come from the retained earnings statement, prepared prior to the balance sheet.
+If you are looking for license-free, fully-customizable, powerful, hardware-independent, virus/spyware free, and robust Operating System, LINUX is what you need.
